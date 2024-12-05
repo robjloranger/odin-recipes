@@ -4,9 +4,11 @@
 
 ## Overview
 
+The project is to build a simple recipe website.
+
 This website will start out ugly, with just an index and a handful of recipes.
 
-Later the pathway will expand on the HTML basics and ad styling.
+Later the pathway will expand on the HTML basics and add styling.
 
 ## Skills etc
 
