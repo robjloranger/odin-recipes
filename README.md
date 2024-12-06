@@ -21,5 +21,6 @@ Original recipes are from the following locations:
 - Cashew cream sauce from https://www.twospoons.ca/vegan-cream-of-mushroom-soup/
 - Rice and mushroom soup from https://pinchofyum.com/instant-pot-wild-rice-soup
 - No knead focaccia from https://thisitaliankitchen.com/no-knead-focaccia-bread/#wprm-recipe-container-13387
+- Vegan Ricotta from https://itdoesnttastelikechicken.com/quick-vegan-tofu-ricotta/
 
 The mushroom soup recipe is somewhat modified from the original.
