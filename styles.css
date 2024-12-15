@@ -1,0 +1,41 @@
+html,
+body {
+    background-color: hsl(26 40 93);
+    color: hsl(26 40 8);
+
+    box-sizing: border-box;
+    width: 100%;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    width: 760px;
+    height: auto;
+}
+
+h1,
+h2 {
+    color: hsl(26 100 16);
+    font-weight: bold;
+}
+
+h1.title {
+    font-size: 3rem;
+}
+
+h3 {
+    color: hsl(26 40 32);
+}
+
+ul.index li {
+    font-weight: bold;
+}
+
+/* add ordered list styles for steps
+something in a 'bubble' with the step number in the corner
+nice spacing so it's easier to read
+*/
